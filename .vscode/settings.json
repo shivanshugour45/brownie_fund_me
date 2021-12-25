@@ -1,0 +1,5 @@
+{
+    "solidity.defaultCompiler": "remote",
+    "solidity.compileUsingLocalVersion": "c:\\Users\\ASUS\\demos\\brownie_fund_me\\soljson-v0.6.6+commit.6c089d02.js",
+    "solidity.remappings": "@chainlink/=/Users/ASUS/.brownie/packages/smartcontractkit/chainlink-brownie-contracts@0.2.2"
+}
